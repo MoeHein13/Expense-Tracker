@@ -132,9 +132,10 @@ h2 {
   padding: 1rem 1.2rem;
   margin-bottom: 12px;
   border-radius: 12px;
-  background-attachment: #fff;
+  background-color: #fff;
   box-shadow: 0px 2px 8px rgba(0, 0, 0, 0.15);
   animation: sideIn 0.3s ease;
+  border-right: solid 6px transparent;
 }
 
 @keyframes sideIn {
